@@ -1,0 +1,26 @@
+body {
+  background: #1f6266;
+}
+
+span {
+  margin-left: 50px;
+  cursor: pointer;
+}
+
+p {
+  font-size: 40px;
+  font-weight: bold;
+}
+.container {
+  margin: 0 auto;
+  background: #3c9563;
+  margin-top: 10em;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20em;
+
+}
+
+input {
+  font-size: 25px;
+}
